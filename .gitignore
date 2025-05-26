@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# don't upload these files
+data/uploads/
+data/vectorstore/
+.idea
