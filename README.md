@@ -77,3 +77,5 @@ data/
 ├── uploads/          # Uploaded PDF documents
 ├── vectorstore/      # FAISS index files
 ```
+
+[![Follow on GitHub](https://img.shields.io/github/followers/reinelt88?label=Follow&style=social)](https://github.com/reinelt88)
